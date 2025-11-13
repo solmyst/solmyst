@@ -28,11 +28,10 @@
 
 ---
 
-<details>
+<!-- <details> -->
 <summary><h3>💻 My Tech Stack & Tools</h3></summary>
-<br/>
 
-#### 🚀 Languages
+##### 🚀 Languages
 <p>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white" alt="C#"/>
@@ -114,7 +113,7 @@
   <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi" alt="Raspberry Pi"/>
 </p>
 
-</details>
+<!-- </details> -->
 
 ---
 
