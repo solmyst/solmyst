@@ -120,7 +120,7 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  (https://github-readme-stats.vercel.app/api?username=solmyst)](https://github.com/solmyst/github-readme-stats)
+  <!-- (https://github-readme-stats.vercel.app/api?username=solmyst)](https://github.com/solmyst/github-readme-stats) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Solmyst&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Solmyst&theme=dark&hide_border=false" alt="GitHub Streak"/>
