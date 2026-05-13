@@ -29,7 +29,7 @@
 ---
 
 <!-- <details> -->
-<summary><h3>💻 My Tech Stack & Tools</h3></summary>
+###💻 My Tech Stack & Tools
 
 ##### 🚀 Languages
 <p>
@@ -120,26 +120,27 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Solmyst&show_icons=true&theme=tokyonight" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=solmyst&show_icons=true&theme=radical"
     height="180em"
   />
 
-  <img 
-    src="https://streak-stats.demolab.com?user=Solmyst&theme=tokyonight" 
+  <img
+    src="https://streak-stats.demolab.com?user=solmyst&theme=radical"
     height="180em"
   />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solmyst&layout=compact&theme=tokyonight" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=solmyst&layout=compact&theme=radical"
   />
 </p>
+
 ### 🔝 Top Contributed Repo
 
 <p align="center">
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=Solmyst&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=solmyst&limit=5&theme=radical&combine_all_yearly_contributions=true"
   />
 </p>
